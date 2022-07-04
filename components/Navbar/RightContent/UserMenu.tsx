@@ -52,7 +52,7 @@ const UserMenu:React.FC<UserMenuProps> = ({user}) => {
             
                     >
                     <Flex align= 'center'>
-                        <Icon fontsize ={24} as={CgProfile} />
+                        <Icon fontSize ={24} as={CgProfile} />
                             Profile 
                     </Flex>
             </MenuItem>
